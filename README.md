@@ -23,6 +23,10 @@ more neutral ratings are not included in the train/test sets. In the
 unsupervised set, reviews of any rating are included and there are an
 even number of reviews > 5 and <= 5.
 
+This is the link to download the dataset:
+
+https://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz
+
 # What is Sentiment Analysis?
 Sentiment analysis involves determining whether a piece of text is positive, negative,
 or neutral. This technique, also known as sentiment mining, aims to analyze
