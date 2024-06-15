@@ -2,7 +2,7 @@
 
 Here I share anther small project, implementing the NaIve Bayes Binary Classifire on a data set doing sentiment analysis.
 
-# Data-saet
+# Data-set
 This dataset contains movie reviews along with their associated binary
 sentiment polarity labels. It is intended to serve as a benchmark for
 sentiment classification.
